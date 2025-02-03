@@ -1,1 +1,4 @@
 fastapi_hello/app/__pycache__
+pydantic/app/__pycache__
+fastapi_query_parameter/app/__pycache__
+fastapi_path_parameter/app/__pycache__
