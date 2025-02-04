@@ -2,3 +2,6 @@ fastapi_hello/app/__pycache__
 pydantic/app/__pycache__
 fastapi_query_parameter/app/__pycache__
 fastapi_path_parameter/app/__pycache__
+fastapi_crud_books/app/__pycache__
+fastapi_pydantic_field/app/__pycache__
+fastapi_async/app/__pycache__
