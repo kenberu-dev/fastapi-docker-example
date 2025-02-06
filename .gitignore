@@ -8,4 +8,8 @@ fastapi_async/app/__pycache__
 fastapi_router/app/__pycache__
 async_sqlalchemy/app/__pycache__
 fastapi_di/app/__pycache__
+fastapi_router/app/routers/__pycache__
+fastapi_router/app/schemas/__pycache__
+fastapi_memoapp/app/schemas/__pycache__
+fastapi_memoapp/app/__pycache__
 .vscode
