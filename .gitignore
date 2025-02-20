@@ -12,4 +12,7 @@ fastapi_router/app/routers/__pycache__
 fastapi_router/app/schemas/__pycache__
 fastapi_memoapp/app/schemas/__pycache__
 fastapi_memoapp/app/__pycache__
+fastapi_openai/app/__pycache__
+fastapi_openai/app/schemas/__pycache__
+fastapi_openai/app/.env
 .vscode
